@@ -1,0 +1,19 @@
+senin 
+routing 13.10-16.05 C
+inggris lanjut 18.30 - 19.20 A
+
+selasa
+prototype 08.50 - 11.30 A
+{ Tekno server 12.10 - 14.50 C }  Tekno server 13.10 - 17.45 A
+
+Rabu
+PAW 09.50 - 13.00 A
+
+kamis
+{ techno 13.10 - 14.50 B }
+
+Jumat
+tata kelola 07.00 - 09.40 C
+WAN 09.50 - 11.30 C
+PWS 13.10 - 14.50 A
+
